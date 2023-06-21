@@ -15,5 +15,7 @@ The main task of this game is to eliminate all enemies and go to the next level.
 
 ![ezgif-4-72f18899ec](https://github.com/Arneyris/GodotGame/assets/73390264/bd74539b-6dfd-4e79-8c1c-a70131f119c6)
 
+## How to play?
 
+To try out this game, you need to enter the "Releases" and download the .exe-file: https://github.com/Arneyris/GodotGame/releases/tag/Release
 
