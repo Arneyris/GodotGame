@@ -6,7 +6,8 @@ In 2022, our team of 3 people (Leonid Maznitsa, Anton Jaštšuk, and Allan Ivano
 
 In J.I.M Game, you can see the menu where are various sections available. Besides that, the user can switch controls by pressing the TAB button and editing the values of the buttons.
 
-![record-rgb-20230621_224126](https://github.com/Arneyris/GodotGame/assets/73390264/21df1831-b022-4753-b575-68bd9833b280)
+![ezgif-4-9ae12efb4c](https://github.com/Arneyris/GodotGame/assets/73390264/13b6aa26-dfad-471b-9253-bac23d9e4deb)
+
 
 ## Game Process
 
